@@ -1,6 +1,6 @@
 # Ferramentas de controle de versão:
 
 *Marcurial
-*Git
+*GitLab
 *Subversion
 *CVS
